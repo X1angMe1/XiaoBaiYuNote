@@ -1,10 +1,10 @@
 
-# Markdown 笔记
+# Markdown 笔记 (#)
 
-## Markdown：指南 
+## Markdown：指南 (##)
 From <https://trafficmgr.net/archive/2016/markdown-guide/>
 
-### 常用语法帮助
+### 常用语法帮助 (###)
 最常见的 Markdown 格式选项和键盘快捷键:
 
 <table>
@@ -14,48 +14,48 @@ From <https://trafficmgr.net/archive/2016/markdown-guide/>
         <td>快捷键</td>
     </tr>
     <tr>
-        <td>Bold</td>
+        <td>加粗</td>
         <td>**text**</td>
         <td>Ctrl/⌘ + B</td>
     </tr>
     <tr>
-        <td>Emphasize</td>
+        <td>斜体</td>
         <td>*text*</td>
         <td>Ctrl/⌘ + I</td>
     </tr>
     <tr>
-        <td>Strike-through</td>
+        <td>删除线</td>
         <td>~~text~~</td>
         <td>Ctrl + Alt + U</td>
     </tr>
     <tr>
-        <td>Link</td>
+        <td>链接</td>
         <td>[title](http://)</td>
         <td>Ctrl/⌘ + K</td>
     </tr>
     <tr>
-        <td>code</td>
+        <td>内嵌代码</td>
         <td>`code`</td>
         <td>Ctrl/⌘ + Shift + K</td>
     </tr>
     <tr>
-        <td>Image</td>
+        <td>图片</td>
         <td>![alt](http://)</td>
         <td>Ctrl/⌘ + Shift + I</td>
     </tr>
     <tr>
-        <td>List</td>
+        <td>列表</td>
         <td>-text or *text</td>
         <td>Ctrl + L</td>
     </tr>
     <tr>
-        <td>Blockquote</td>
+        <td>引用</td>
         <td>> text</td>
         <td>Ctrl + Q</td>
     </tr>
     <tr>
-        <td>H1</td>
-        <td># heading</td>
+        <td>标题</td>
+        <td># heading, ## heading, ...</td>
         <td></td>
     </tr>
 </table>
@@ -81,3 +81,4 @@ From <https://trafficmgr.net/archive/2016/markdown-guide/>
 - 引用 : > 引用内容
 - 内嵌代码 :  `alert('Hello World');`
 - 画水平线 (HR) : --------
+-----------
