@@ -9,8 +9,54 @@ From <https://trafficmgr.net/archive/2016/markdown-guide/>
 
 <table>
     <tr>
-        <td>Foo</td>
-        <td>Foo</td>
+        <td>效果</td>
+        <td>Markdown</td>
+        <td>快捷键</td>
+    </tr>
+    <tr>
+        <td>Bold</td>
+        <td>**text**</td>
+        <td>Ctrl/⌘ + B</td>
+    </tr>
+    <tr>
+        <td>Emphasize</td>
+        <td>*text*</td>
+        <td>Ctrl/⌘ + I</td>
+    </tr>
+    <tr>
+        <td>Strike-through</td>
+        <td>~~text~~</td>
+        <td>Ctrl + Alt + U</td>
+    </tr>
+    <tr>
+        <td>Link</td>
+        <td>[title](http://)</td>
+        <td>Ctrl/⌘ + K</td>
+    </tr>
+    <tr>
+        <td>code</td>
+        <td>`code`</td>
+        <td>Ctrl/⌘ + Shift + K</td>
+    </tr>
+    <tr>
+        <td>Image</td>
+        <td>![alt](http://)</td>
+        <td>Ctrl/⌘ + Shift + I</td>
+    </tr>
+    <tr>
+        <td>List</td>
+        <td>-text or *text</td>
+        <td>Ctrl + L</td>
+    </tr>
+    <tr>
+        <td>Blockquote</td>
+        <td>> text</td>
+        <td>Ctrl + Q</td>
+    </tr>
+    <tr>
+        <td>H1</td>
+        <td># heading</td>
+        <td></td>
     </tr>
 </table>
 
